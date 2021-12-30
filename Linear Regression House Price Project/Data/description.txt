@@ -1,2 +1,0 @@
-This project uses a Linear Regression model to predict the price of a house. The dataset contains features about 
-the house such as year built, square footage, number of bedrooms, etc. It also includes the price of the house in order to train the model.
