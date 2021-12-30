@@ -1,0 +1,2 @@
+This project uses comments from Reddit to predict the probability of that comment occuring in one of the 10 subreddits. Dimensionality reduction was performed 
+on the data using PCA and TSNE. An XGBoost Machine Learning model was used for training and predicting the subreddits.
