@@ -1,0 +1,4 @@
+This project uses an unsupervised learning technique called a Gaussian Mixture Models. The goal of this project is to assign genetic sample data from 
+dogs to one of four different breeds of dogs. I predicted the probability of each genetic sample of a dog belonging to the four different breeds of dogs.
+Since this is unsupervised the model doesn't have any labels so it uses clusters to group similar genetic samples of dogs together and 
+predicts the breed of dog based on which cluster the genetic sample belongs to.
