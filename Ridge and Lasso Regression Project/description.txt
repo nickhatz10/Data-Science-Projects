@@ -1,0 +1,2 @@
+This project uses both Ridge and Lasso regression to predict the price of "Magic The Gathering" cards. 
+The dataset contains various features of the cards such as the cards rarity or power. The price of the card is also given for training the model.
