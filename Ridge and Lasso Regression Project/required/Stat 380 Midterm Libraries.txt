@@ -1,0 +1,9 @@
+﻿Import Statements
+
+
+from google.colab import drive
+import pandas as pd
+import numpy as np
+from sklearn.linear_model import Ridge
+from sklearn.linear_model import Lasso
+from sklearn.model_selection import GridSearchCV
