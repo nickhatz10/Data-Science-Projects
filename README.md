@@ -1,4 +1,4 @@
-# Data Science Projects
+# Machine Learning Projects
 Compilation of some machine learning projects I have worked on. These projects are coded using Python. The stucture of the folders can be found below.
 
 
